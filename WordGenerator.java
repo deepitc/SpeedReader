@@ -1,12 +1,6 @@
 /*
- * Authors: Deepit
- * Assignment 4
- * Due: May 4, 2022 (Had leave due to COVID)
- * Written/Online sources used: Sources for text files listed seperately in text file
- * Help obtained: 
- * I confirm that the above list of sources is 
- * complete AND that I have not talked to anyone else 
- * about the solution to this problem
+ * Authors: Deepit Chandgothia
+ * Project: Speead Reader
  */
 
 import java.util.Scanner;
